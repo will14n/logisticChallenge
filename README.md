@@ -1,0 +1,1 @@
+Coloquei ênfase maior na parte estrutural, pensando na real necessidade da empresa neste momento, com mais ênfase em definições, arquitetura e estrutura de desenvolvimento o qual se faz super importante para o início de um projeto, pensando em sua adptação de mercado, manutelibilidade e desacoplamento para reunilização de componentes essenciais.
