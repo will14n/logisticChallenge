@@ -1,4 +1,3 @@
-import { BaseModel } from '../database/models';
 import { Repository } from './repository';
 import { Knex } from 'knex';
 import { Conn } from '../database/knex';

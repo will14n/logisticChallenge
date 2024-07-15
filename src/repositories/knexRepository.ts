@@ -11,12 +11,10 @@ export class knexRepository extends KnexAbstractRepository<any> {
     public async findAll(): Promise<any> {
         const cache = await get('findAllOrders');
         if(!cache) {
-            console.log('cacheando')
             const order = await this.qb.select('*').orderBy('id', 'desc');
             await set('findAllOrders', JSON.stringify(order));
             return order;
         }
-        console.log('cacheado')
         return JSON.parse(cache);
     }
 
