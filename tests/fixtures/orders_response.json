@@ -1,0 +1,743 @@
+[
+  {
+    "id": "aca4f691-3279-4aed-b0ff-0101ea1fcf90",
+    "type": "TEXTILE",
+    "weight": null,
+    "pickup": {
+      "address": "4712 Bluebell Close, Candelarioworth, Arkansas",
+      "contactName": "Lynn O'Kon",
+      "contactPhone": "952.794.5217 x7111"
+    },
+    "destination": {
+      "address": "4143 Main Street W, Legrosberg, Arkansas",
+      "contactName": "Cory Glover V",
+      "contactPhone": "(411) 808-2006 x93107"
+    },
+    "items": [
+      {
+        "type": "PARCEL",
+        "length": 23,
+        "width": 58,
+        "height": 89,
+        "weight": 60
+      },
+      {
+        "type": "PARCEL",
+        "length": 6,
+        "width": 28,
+        "height": 28,
+        "weight": 98
+      },
+      {
+        "type": "PALLET",
+        "length": 15,
+        "width": 76,
+        "height": 6,
+        "weight": 2
+      },
+      {
+        "type": "PALLET",
+        "length": 99,
+        "width": 88,
+        "height": 62,
+        "weight": 51
+      },
+      {
+        "type": "PARCEL",
+        "length": 36,
+        "width": 39,
+        "height": 47,
+        "weight": 28
+      },
+      {
+        "type": "PALLET",
+        "length": 12,
+        "width": 49,
+        "height": 36,
+        "weight": 87
+      },
+      {
+        "type": "PARCEL",
+        "length": 59,
+        "width": 63,
+        "height": 73,
+        "weight": 58
+      },
+      {
+        "type": "PALLET",
+        "length": 96,
+        "width": 43,
+        "height": 74,
+        "weight": 1
+      },
+      {
+        "type": "PALLET",
+        "length": 15,
+        "width": 5,
+        "height": 19,
+        "weight": 5
+      },
+      {
+        "type": "PALLET",
+        "length": 98,
+        "width": 14,
+        "height": 28,
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "id": "dbabd0cc-91ef-4b1a-a6cd-091e9778a15b",
+    "type": "TEXTILE",
+    "weight": null,
+    "pickup": {
+      "address": "7708 Casimer Via, Bradtkecester, Idaho",
+      "contactName": "Ms. Johnnie Gulgowski",
+      "contactPhone": "1-651-697-8372"
+    },
+    "destination": {
+      "address": "7114 Bernier Brooks, Hayleeland, Michigan",
+      "contactName": "Myron Tillman",
+      "contactPhone": "913-563-4873 x06488"
+    },
+    "items": [
+      {
+        "type": "PARCEL",
+        "length": 20,
+        "width": 62,
+        "height": 8,
+        "weight": 49
+      }
+    ]
+  },
+  {
+    "id": "d81e0a8b-88a6-4e4f-b821-f3ca6c299392",
+    "type": "ELETRONICS",
+    "weight": null,
+    "pickup": {
+      "address": "37296 Atlantic Avenue, Kenosha, North Carolina",
+      "contactName": "Edmond Mitchell",
+      "contactPhone": "201-514-2867"
+    },
+    "destination": {
+      "address": "9593 King Expressway, Fort Brad, New Hampshire",
+      "contactName": "Roland Quitzon",
+      "contactPhone": "1-774-281-7024 x5788"
+    },
+    "items": [
+      {
+        "type": "PALLET",
+        "length": 96,
+        "width": 68,
+        "height": 95,
+        "weight": 97
+      },
+      {
+        "type": "PALLET",
+        "length": 54,
+        "width": 48,
+        "height": 48,
+        "weight": 94
+      },
+      {
+        "type": "PALLET",
+        "length": 68,
+        "width": 40,
+        "height": 73,
+        "weight": 62
+      },
+      {
+        "type": "PALLET",
+        "length": 34,
+        "width": 55,
+        "height": 25,
+        "weight": 1
+      },
+      {
+        "type": "PALLET",
+        "length": 22,
+        "width": 30,
+        "height": 2,
+        "weight": 78
+      },
+      {
+        "type": "PARCEL",
+        "length": 79,
+        "width": 64,
+        "height": 5,
+        "weight": 4
+      },
+      {
+        "type": "PALLET",
+        "length": 80,
+        "width": 10,
+        "height": 8,
+        "weight": 90
+      },
+      {
+        "type": "PALLET",
+        "length": 35,
+        "width": 56,
+        "height": 22,
+        "weight": 59
+      },
+      {
+        "type": "PARCEL",
+        "length": 76,
+        "width": 47,
+        "height": 34,
+        "weight": 1
+      },
+      {
+        "type": "PALLET",
+        "length": 25,
+        "width": 82,
+        "height": 18,
+        "weight": 82
+      }
+    ]
+  },
+  {
+    "id": " ",
+    "type": "ELETRONICS",
+    "weight": null,
+    "pickup": {
+      "address": "84192 Nicolette Manor, Kenosha, Illinois",
+      "contactName": "Jerry Lang",
+      "contactPhone": "230.847.2585"
+    },
+    "destination": {
+      "address": "8501 W 6th Street, South Berryfurt, Nebraska",
+      "contactName": "Dennis Moore DVM",
+      "contactPhone": "999.535.0272 x51372"
+    },
+    "items": [
+      {
+        "type": "PARCEL",
+        "length": 17,
+        "width": 37,
+        "height": 40,
+        "weight": 75
+      },
+      {
+        "type": "PARCEL",
+        "length": 18,
+        "width": 0,
+        "height": 5,
+        "weight": 20
+      },
+      {
+        "type": "PALLET",
+        "length": 65,
+        "width": 23,
+        "height": 82,
+        "weight": 5
+      },
+      {
+        "type": "PARCEL",
+        "length": 55,
+        "width": 35,
+        "height": 94,
+        "weight": 40
+      },
+      {
+        "type": "PALLET",
+        "length": 64,
+        "width": 6,
+        "height": 28,
+        "weight": 47
+      },
+      {
+        "type": "PALLET",
+        "length": 16,
+        "width": 69,
+        "height": 98,
+        "weight": 25
+      },
+      {
+        "type": "PALLET",
+        "length": 37,
+        "width": 26,
+        "height": 99,
+        "weight": 22
+      },
+      {
+        "type": "PARCEL",
+        "length": 2,
+        "width": 70,
+        "height": 71,
+        "weight": 55
+      },
+      {
+        "type": "PALLET",
+        "length": 63,
+        "width": 22,
+        "height": 80,
+        "weight": 13
+      },
+      {
+        "type": "PARCEL",
+        "length": 18,
+        "width": 96,
+        "height": 30,
+        "weight": 57
+      }
+    ]
+  },
+  {
+    "id": "08c3bb3b-1017-4f58-ba6c-cb113e7905fa",
+    "type": "DRYFOOD",
+    "weight": null,
+    "pickup": {
+      "address": "44326 Zackary Grove, Marleyton, Louisiana",
+      "contactName": "Jeanne Wilkinson",
+      "contactPhone": "715-830-3936"
+    },
+    "destination": {
+      "address": "413 Sawayn Vista, New Destineyshire, Illinois",
+      "contactName": "Erica Walter",
+      "contactPhone": "(508) 733-1723 x840"
+    },
+    "items": [
+      {
+        "type": "PARCEL",
+        "length": 5,
+        "width": 11,
+        "height": 4,
+        "weight": 65
+      },
+      {
+        "type": "PARCEL",
+        "length": 91,
+        "width": 57,
+        "height": 90,
+        "weight": 14
+      }
+    ]
+  },
+  {
+    "id": "8ce0d4dd-a63b-4655-8ad1-5afa0d596534",
+    "type": "TEXTILE",
+    "weight": null,
+    "pickup": {
+      "address": "54246 The Rise, Richland, Colorado",
+      "contactName": "Andres Collins",
+      "contactPhone": "(370) 403-5881 x1043"
+    },
+    "destination": {
+      "address": "682 Jakayla Prairie, Ethanworth, Arizona",
+      "contactName": "Dr. Irvin Hane",
+      "contactPhone": "754.289.3788"
+    },
+    "items": [
+      {
+        "type": "PARCEL",
+        "length": 48,
+        "width": 85,
+        "height": 32,
+        "weight": 18
+      },
+      {
+        "type": "PALLET",
+        "length": 90,
+        "width": 44,
+        "height": 12,
+        "weight": 31
+      },
+      {
+        "type": "PALLET",
+        "length": 84,
+        "width": 60,
+        "height": 12,
+        "weight": 57
+      },
+      {
+        "type": "PALLET",
+        "length": 26,
+        "width": 98,
+        "height": 10,
+        "weight": 88
+      },
+      {
+        "type": "PARCEL",
+        "length": 21,
+        "width": 9,
+        "height": 89,
+        "weight": 47
+      },
+      {
+        "type": "PALLET",
+        "length": 61,
+        "width": 32,
+        "height": 26,
+        "weight": 66
+      },
+      {
+        "type": "PALLET",
+        "length": 96,
+        "width": 91,
+        "height": 52,
+        "weight": 6
+      },
+      {
+        "type": "PARCEL",
+        "length": 17,
+        "width": 49,
+        "height": 33,
+        "weight": 4
+      },
+      {
+        "type": "PALLET",
+        "length": 13,
+        "width": 27,
+        "height": 39,
+        "weight": 27
+      },
+      {
+        "type": "PALLET",
+        "length": 14,
+        "width": 98,
+        "height": 54,
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "id": "d2b3cc9c-730e-4257-9431-d6074804cbd7",
+    "type": "TEXTILE",
+    "weight": null,
+    "pickup": {
+      "address": "16858 Berry Valley, New Haven, Maine",
+      "contactName": "Grady Williamson",
+      "contactPhone": "1-270-370-0893 x326"
+    },
+    "destination": {
+      "address": "26446 Lincoln Street, New Valerieport, Kansas",
+      "contactName": "Lucy Bashirian",
+      "contactPhone": "(221) 294-2387 x5489"
+    },
+    "items": [
+      {
+        "type": "PALLET",
+        "length": 72,
+        "width": 61,
+        "height": 63,
+        "weight": 49
+      }
+    ]
+  },
+  {
+    "id": "78a178c1-f6be-4717-a2a0-70e9c1fd8568",
+    "type": "DRYFOOD",
+    "weight": null,
+    "pickup": {
+      "address": "6040 Rutherford Route, Wilmaberg, California",
+      "contactName": "Donnie Satterfield",
+      "contactPhone": "387-330-1276 x6524"
+    },
+    "destination": {
+      "address": "15470 Smith Street, Framicester, Hawaii",
+      "contactName": "Bobby Ortiz",
+      "contactPhone": "689.793.5442 x09911"
+    },
+    "items": [
+      {
+        "type": "PALLET",
+        "length": 3,
+        "width": 83,
+        "height": 79,
+        "weight": 44
+      },
+      {
+        "type": "PARCEL",
+        "length": 88,
+        "width": 67,
+        "height": 90,
+        "weight": 87
+      }
+    ]
+  },
+  {
+    "id": "ebbbc6aa-33b2-4cc3-86a7-a01a6e7a57ed",
+    "type": "DRYFOOD",
+    "weight": null,
+    "pickup": {
+      "address": "58749 Verna Groves, East Hartford, Louisiana",
+      "contactName": "Jeffrey Hickle",
+      "contactPhone": "(655) 435-2773 x031"
+    },
+    "destination": {
+      "address": "604 Hudson Spur, Johnathonhaven, Kansas",
+      "contactName": "Julius Leannon",
+      "contactPhone": "1-902-305-8832 x547"
+    },
+    "items": [
+      {
+        "type": "PARCEL",
+        "length": 49,
+        "width": 6,
+        "height": 30,
+        "weight": 57
+      },
+      {
+        "type": "PARCEL",
+        "length": 44,
+        "width": 38,
+        "height": 22,
+        "weight": 27
+      },
+      {
+        "type": "PALLET",
+        "length": 67,
+        "width": 38,
+        "height": 9,
+        "weight": 11
+      },
+      {
+        "type": "PALLET",
+        "length": 48,
+        "width": 75,
+        "height": 64,
+        "weight": 39
+      },
+      {
+        "type": "PALLET",
+        "length": 99,
+        "width": 36,
+        "height": 24,
+        "weight": 61
+      },
+      {
+        "type": "PALLET",
+        "length": 66,
+        "width": 32,
+        "height": 45,
+        "weight": 33
+      },
+      {
+        "type": "PARCEL",
+        "length": 99,
+        "width": 45,
+        "height": 46,
+        "weight": 68
+      },
+      {
+        "type": "PARCEL",
+        "length": 79,
+        "width": 87,
+        "height": 85,
+        "weight": 76
+      },
+      {
+        "type": "PARCEL",
+        "length": 31,
+        "width": 79,
+        "height": 23,
+        "weight": 4
+      }
+    ]
+  },
+  {
+    "id": "b34feca7-f238-4626-a527-504b2cdf8dc7",
+    "type": "TEXTILE",
+    "weight": null,
+    "pickup": {
+      "address": "286 Crown Street, Murfreesboro, New Mexico",
+      "contactName": "Stanley Stark",
+      "contactPhone": "1-698-272-7730"
+    },
+    "destination": {
+      "address": "830 Garden Close, Tianaside, Rhode Island",
+      "contactName": "Jo Rowe I",
+      "contactPhone": "717.283.5249 x609"
+    },
+    "items": []
+  },
+  {
+    "id": "87651344-f228-4f08-b3ed-adc193f76a7a",
+    "type": "ELETRONICS",
+    "weight": null,
+    "pickup": {
+      "address": "500 Conroy Underpass, Rocky Mount, South Dakota",
+      "contactName": "Emmett Murphy",
+      "contactPhone": "938-235-3756 x454"
+    },
+    "destination": {
+      "address": "681 Ash Road, Fort Carlomouth, Minnesota",
+      "contactName": "Travis Turner",
+      "contactPhone": "635.442.6341 x1059"
+    },
+    "items": [
+      {
+        "type": "PALLET",
+        "length": 100,
+        "width": 15,
+        "height": 6,
+        "weight": 49
+      },
+      {
+        "type": "PARCEL",
+        "length": 61,
+        "width": 6,
+        "height": 28,
+        "weight": 29
+      },
+      {
+        "type": "PALLET",
+        "length": 74,
+        "width": 91,
+        "height": 73,
+        "weight": 75
+      },
+      {
+        "type": "PARCEL",
+        "length": 47,
+        "width": 17,
+        "height": 3,
+        "weight": 65
+      },
+      {
+        "type": "PALLET",
+        "length": 12,
+        "width": 94,
+        "height": 33,
+        "weight": 16
+      },
+      {
+        "type": "PALLET",
+        "length": 39,
+        "width": 0,
+        "height": 47,
+        "weight": 39
+      },
+      {
+        "type": "PALLET",
+        "length": 90,
+        "width": 64,
+        "height": 71,
+        "weight": 95
+      },
+      {
+        "type": "PALLET",
+        "length": 93,
+        "width": 45,
+        "height": 43,
+        "weight": 88
+      }
+    ]
+  },
+  {
+    "id": "de18010f-ced0-4273-8655-af4f17f659f9",
+    "type": "TEXTILE",
+    "weight": null,
+    "pickup": {
+      "address": "5068 Woodland Close, Fort Imani, Maryland",
+      "contactName": "Frankie Predovic Sr.",
+      "contactPhone": "1-345-607-0411 x40172"
+    },
+    "destination": {
+      "address": "3263 Nikolas Well, Salt Lake City, Michigan",
+      "contactName": "Judith Turcotte",
+      "contactPhone": "296.539.7794"
+    },
+    "items": [
+      {
+        "type": "PALLET",
+        "length": 27,
+        "width": 34,
+        "height": 84,
+        "weight": 5
+      },
+      {
+        "type": "PALLET",
+        "length": 33,
+        "width": 39,
+        "height": 20,
+        "weight": 94
+      },
+      {
+        "type": "PALLET",
+        "length": 42,
+        "width": 37,
+        "height": 22,
+        "weight": 72
+      }
+    ]
+  },
+  {
+    "id": "807ef2b4-c9ed-405c-89ef-d5723ac9d096",
+    "type": "ELETRONICS",
+    "weight": null,
+    "pickup": {
+      "address": "31685 Willow Road, Moenport, North Dakota",
+      "contactName": "Mr. Christopher Larson",
+      "contactPhone": "313-478-2115 x67442"
+    },
+    "destination": {
+      "address": "6129 Brendan Knolls, Marlinstad, Arizona",
+      "contactName": "Lynn Smitham",
+      "contactPhone": "801.538.8658 x898"
+    },
+    "items": [
+      {
+        "type": "PARCEL",
+        "length": 16,
+        "width": 17,
+        "height": 53,
+        "weight": 49
+      },
+      {
+        "type": "PALLET",
+        "length": 88,
+        "width": 89,
+        "height": 34,
+        "weight": 29
+      },
+      {
+        "type": "PALLET",
+        "length": 72,
+        "width": 69,
+        "height": 67,
+        "weight": 55
+      },
+      {
+        "type": "PARCEL",
+        "length": 21,
+        "width": 35,
+        "height": 91,
+        "weight": 23
+      }
+    ]
+  },
+  {
+    "id": "fa149afe-7088-462c-82a2-e15137b01831",
+    "type": "ELETRONICS",
+    "weight": null,
+    "pickup": {
+      "address": "3317 Connelly Lock, Johnsoncester, Missouri",
+      "contactName": "Jasmine Balistreri",
+      "contactPhone": "615-898-0054 x756"
+    },
+    "destination": {
+      "address": "76918 Brandon Center, Lake Hollyville, California",
+      "contactName": "Alejandro Gusikowski",
+      "contactPhone": "445.418.8341 x4499"
+    },
+    "items": [
+      {
+        "type": "PALLET",
+        "length": 16,
+        "width": 86,
+        "height": 53,
+        "weight": 32
+      },
+      {
+        "type": "PALLET",
+        "length": 50,
+        "width": 73,
+        "height": 11,
+        "weight": 44
+      }
+    ]
+  }
+]
